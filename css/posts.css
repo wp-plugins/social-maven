@@ -1,0 +1,43 @@
+.soma-buttons {
+  padding: 0;
+  margin: 5px 0 0 0;
+  clear: all;
+}
+
+.soma-alignleft {
+  float: left;
+  padding-right: 10px;
+}
+
+.soma-alignright {
+  float: right;
+  padding-left: 10px;
+}
+
+.soma-alignleft-clear {
+  text-align: left;
+  clear: both;
+}
+
+.soma-alignright-clear {
+  text-align: left;
+  clear: both;
+}
+
+.soma-valigntop {
+  padding-bottom: 2px;
+}
+
+.soma-valignbottom {
+  padding-top: 2px;
+}
+
+.soma-vertical .fb-like {
+  top: -3px;
+  left: 0;
+}
+
+.soma-horizontal .fb-like {
+  top: -3px;
+  left: 0;
+}
