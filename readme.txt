@@ -2,8 +2,8 @@
 Contributors: supercleanse
 Donate link: http://prettylinkpro.com
 Tags: social, buttons, counts, clicks, links, link, share, post, posts, admin, twitter, facebook, google+, pinterest, linkedin
-Requires at least: 3.3.1
-Tested up to: 3.3.1
+Requires at least: 3.9
+Tested up to: 4.0
 Stable tag: 1.0.1
 
 Simply adds the most popular social media buttons to your pages, posts and custom post types.
